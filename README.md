@@ -1,5 +1,3 @@
-<div align="center">
-
 # DevTables
 
 **The best Mac database tool for keyboard-driven developers who work with
@@ -7,8 +5,6 @@ PostgreSQL, MySQL, and SQLite.**
 
 A native macOS database app that feels like your code editor — fast,
 keyboard-first, and out of the way — not a mouse-driven DBA console.
-
-</div>
 
 ---
 
