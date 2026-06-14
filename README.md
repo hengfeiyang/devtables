@@ -82,8 +82,8 @@ the best experience on macOS.
 
 This repository is where DevTables users share feedback and report problems.
 
-- 🐛 **Found a bug?** [Open an issue](https://github.com/hengfeiyang/DevTables/issues/new).
-- 💡 **Have an idea or feature request?** [Start a discussion or open an issue](https://github.com/hengfeiyang/DevTables/issues).
+- 🐛 **Found a bug?** [Open an issue](https://github.com/hengfeiyang/devtables/issues/new).
+- 💡 **Have an idea or feature request?** [Start a discussion or open an issue](https://github.com/hengfeiyang/devtables/issues).
 
 When reporting a bug, it helps to include your macOS version, the DevTables
 version, the database type, and the steps to reproduce.

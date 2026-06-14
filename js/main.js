@@ -28,7 +28,7 @@
     { name: 'Edit Keymap…',           kbd: '',     href: '#keyboard' },
     { name: 'View Changelog',         kbd: '',     href: 'release-notes.html' },
     { name: 'Download DevTables',     kbd: '',     href: '#download' },
-    { name: 'Report an Issue',        kbd: '',     href: 'https://github.com/hengfeiyang/DevTables/issues' },
+    { name: 'Report an Issue',        kbd: '',     href: 'https://github.com/hengfeiyang/devtables/issues' },
   ];
 
   // ── Feature index ────────────────────────────────────────────────────────
